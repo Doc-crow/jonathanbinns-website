@@ -36,6 +36,13 @@ article {
   margin: 10px;
 }
 
+.social a {
+  /* left: 5px; */
+  font-size: 40px;
+  color: #fff;
+  text-decoration: inherit;
+}
+
 h1 {
   position: absolute;
   top: 40%;
